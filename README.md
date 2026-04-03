@@ -5,13 +5,11 @@ Analista de Suporte Técnico com mais de 8 anos de experiência em ambientes cor
 Experiência em diagnóstico técnico, tratamento de falhas e prevenção de impactos, incluindo administração de usuários no Active Directory, suporte ao Microsoft 365, análise de indicadores e acompanhamento de SLA.
 Perfil analítico e orientado à melhoria contínua, com foco na padronização de processos, otimização de fluxos de atendimento e aumento da eficiência operacional. Atualmente, expandindo conhecimentos em automação e análise de dados para tomada de decisão e evolução de ambientes técnicos.
 
- <a href="https://www.linkedin.com/in/jacqueline-leal/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+ <a href="https://www.linkedin.com/in/jacqueline-leal/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
 </a> &#8287;&#8287;&#8287;&#8287;&#8287; 
   <a href="https://discord.gg/K6VK8fxSaZ" alt="Discord" title="Discord Lendarios"><img width="32px" src="https://i.imgur.com/pfBLjJk.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 
 ### 🤖 Linguagens e Tecnologias
-#### 💻 Dados e Automação
-
 <img 
     align="left" 
     alt="python"
@@ -37,9 +35,6 @@ Perfil analítico e orientado à melhoria contínua, com foco na padronização 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
  />
-
- <br><br>
- #### 🖥️ Suporte e infraestrutura
 <img 
     align="left" 
     alt="hubspot"
@@ -58,4 +53,4 @@ Perfil analítico e orientado à melhoria contínua, com foco na padronização 
     style="padding-right: 10px;" 
     src="https://i.imgur.com/6g5WInq.png"
  />
-<br><br>
+
