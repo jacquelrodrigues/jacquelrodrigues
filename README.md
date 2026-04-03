@@ -35,11 +35,22 @@ Perfil analítico e orientado à melhoria contínua, com foco na padronização 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
  />
+ 
+ <img 
+    align="left" 
+    alt="XML"
+    title="XML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg"
+ />
+
+         
 <img 
     align="left" 
     alt="hubspot"
     title="hubspot" 
-    width="55px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://i.imgur.com/MN9qiKU.png"
  />
@@ -49,7 +60,7 @@ Perfil analítico e orientado à melhoria contínua, com foco na padronização 
     align="left" 
     alt="GLPI"
     title="GLPI" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://i.imgur.com/6g5WInq.png"
  />
